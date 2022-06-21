@@ -14,3 +14,5 @@ BotSpotter Es Ahora Un BOT Publico, Puedes Invitarlo A Tu Servidor Aquí:
 
 https://discord.com/api/oauth2/authorize?client_id=977846832342368306&permissions=68608&scope=bot
 
+
+Estos Codigos Están Licenciados y Se prohibe su redistribución de manera lucrativa, El Codigo Es Abierto, Si Tuviste Que Pagar Por Esto TE HAN ESTAFADO.
