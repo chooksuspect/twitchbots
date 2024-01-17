@@ -1,18 +1,17 @@
 # twitchbots
 
-Publicación de Código de los DiscordBots Creados Para Detectar Bots en Un Stream, Adicional Código de ViewerBot para Twitch Que Permite Generar Views En Tiempo REAL.
-Todo Está Testeado Por La Comunidad.
+Publicación del código de los DiscordBots creados para detectar bots en un stream. Además, se incluye el código del ViewerBot para Twitch, que permite generar vistas en tiempo REAL. Todo está probado por la comunidad.
 
-https://discord.gg/9E7BU6TzBh
+https://discord.gg/536n4AUyqG
 
-ViewerBot.js Lo debes Correr Con NODE.JS , Instalar Las Dependencias y Librerías Necesarias, El Bot Por Defecto Establecerá Conexión Con Proxies Gratuitos, Si Requiere Mayor Eficiencia Debes Buscar Los Tuyos Propios.
+Para ejecutar ViewerBot.js, debes usar NODE.JS. Instala las dependencias y librerías necesarias; el bot, por defecto, establecerá conexión con proxies gratuitos.
 
-BotSpotter.JS Requiere De Una API En BackEnd Para Funcionar, Ya Está Explicado Como Funciona Y Como Crearla En Mi Contenido.
+Si buscas una mayor eficiencia, debes buscar los tuyos propios.
 
-BotSpotter Es Ahora Un BOT Publico, Puedes Invitarlo A Tu Servidor Aquí:
+BotSpotter.JS requiere de una API en el Backend para funcionar. Ya está explicado cómo funciona y cómo crearla en mi contenido.
 
+BotSpotter es ahora un BOT público. Puedes invitarlo a tu servidor aquí:
 
 https://discord.com/api/oauth2/authorize?client_id=977846832342368306&permissions=68608&scope=bot
 
-
-Estos Codigos Están Licenciados y Se prohibe su redistribución de manera lucrativa, El Codigo Es Abierto, Si Tuviste Que Pagar Por Esto TE HAN ESTAFADO.
+Estos códigos están licenciados y se prohíbe su redistribución de manera lucrativa. El código es abierto; si tuviste que pagar por esto, TE HAN ESTAFADO.
